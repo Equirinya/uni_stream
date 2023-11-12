@@ -1,10 +1,9 @@
-# ![Logo](https://github.com/Equirinya/uni_stream/blob/master/assets/icon/logo.png?raw=true | width=25) Uni Stream
+# <img alt="Logo" src="https://github.com/Equirinya/uni_stream/blob/master/assets/icon/logo.png?raw=true" width="5%"> Uni Stream
 
 An optimised media library and browser for university content
 
-![Screenshot of Home View](https://github.com/Equirinya/uni_stream/blob/master/screenshots/Screenshot_Home_framed.png?raw=true | width=100)
-![Screenshot of Course View](https://github.com/Equirinya/uni_stream/blob/master/screenshots/Screenshot_Course_framed.png?raw=true | width=100)
-![Screenshot of Search View](https://github.com/Equirinya/uni_stream/blob/master/screenshots/Screenshot_Search_framed.png?raw=true | width=100)
+<div style="display:flex;justify-content:space-between;">
+<img alt="Screenshot of Home View" src="https://github.com/Equirinya/uni_stream/blob/master/screenshots/Screenshot_Home_framed.png?raw=true" width="25%"> <img alt="Screenshot of Course View" src="https://github.com/Equirinya/uni_stream/blob/master/screenshots/Screenshot_Course_framed.png?raw=true" width="25%"> <img alt="Screenshot of Search View" src="https://github.com/Equirinya/uni_stream/blob/master/screenshots/Screenshot_Search_framed.png?raw=true" width="25%"></div>
 
 ## Features
  - [x] Browse and search through all available courses
