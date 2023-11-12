@@ -3,7 +3,7 @@
 An optimised media library and browser for university content
 
 <div style="display:flex;justify-content:space-between;">
-<img alt="Screenshot of Home View" src="https://github.com/Equirinya/uni_stream/blob/master/screenshots/Screenshot_Home_framed.png?raw=true" width="30%"> <img alt="Screenshot of Course View" src="https://github.com/Equirinya/uni_stream/blob/master/screenshots/Screenshot_Course_framed.png?raw=true" width="30%"> <img alt="Screenshot of Search View" src="https://github.com/Equirinya/uni_stream/blob/master/screenshots/Screenshot_Search_framed.png?raw=true" width="30%"></div>
+<img alt="Screenshot of Home View" src="https://github.com/Equirinya/uni_stream/blob/master/screenshots/Screenshot_Home_framed.png?raw=true" width="30%">   <img alt="Screenshot of Course View" src="https://github.com/Equirinya/uni_stream/blob/master/screenshots/Screenshot_Course_framed.png?raw=true" width="30%">   <img alt="Screenshot of Search View" src="https://github.com/Equirinya/uni_stream/blob/master/screenshots/Screenshot_Search_framed.png?raw=true" width="30%"></div>
 
 ## Features
  - [x] Browse and search through all available courses
